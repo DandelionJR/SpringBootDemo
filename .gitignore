@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e8f2819559c4281c4836be8e4cb98ce926767ac0
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -22,4 +26,32 @@ build/
 nbbuild/
 dist/
 nbdist/
+<<<<<<< HEAD
 .nb-gradle/
+=======
+.nb-gradle/
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> d7d75d49df977d82e8bd3ee687680bfcf3cc611b
+>>>>>>> e8f2819559c4281c4836be8e4cb98ce926767ac0
